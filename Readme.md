@@ -1,0 +1,1 @@
+this program is a sentiment analysis model using LSTM , trained on IMDB reviews dataset using tensorflow. Also, I used tensorboard for the first time to project the words embedding and to assess the performance of the model
